@@ -7,7 +7,7 @@
 - [Ilya Tech - Core](https://steamcommunity.com/sharedfiles/filedetails/?id=2800776443) (Steam)
 
 ## Download
-- [Steam]()
+- [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2801522312)
 - [GitHub](https://github.com/Daria40K/Persona-Bond-Patch-for-Ilya-Tech-Core/releases)
 
 ## Weapons Patch
